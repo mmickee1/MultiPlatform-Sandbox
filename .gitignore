@@ -1,3 +1,15 @@
+*.iml
+.gradle
+.idea
+.DS_Store
+build
+captures
+.externalNativeBuild
+.cxx
+local.properties
+xcuserdata
+
+>>>>>>> 18fc62d (project init)
 # Compiled class file
 *.class
 
